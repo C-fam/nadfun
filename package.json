@@ -1,0 +1,13 @@
+{
+  "name": "nadfun-watcher",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "viem": "^2.21.15"
+  }
+}
